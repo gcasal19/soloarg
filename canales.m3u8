@@ -1,0 +1,418 @@
+#EXTM3U 
+
+
+#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS", IP  24.5 *
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4 
+https://g2.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1498630325978611712/cM8F6aDq_400x400.jpg" group-title="NOTICIAS", CANAL 26  24.2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24  36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS       
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1409536579127939080/GqY-VqhM_400x400.jpg" group-title="NOTICIAS", C5N  25.2
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+
+#EXTINF:-1 tvg-id="LNPlus.ar" tvg-country="AR"  group-title="NOTICIAS", LN+  25.3  
+https://www.youtube.com/watch?v=GZEwdVV5DTY
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_400x400.png" group-title="AMBA", AMERICA HD  36.1
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8  
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="AMBA", TV PUBLICA - 23.2
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8 
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="AMBA", CANAL 9  35.1
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="AMBA", TELEFE  34.1
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="AMBA", CANAL 13  33.1
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS 2
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS 3
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 group-title="INFANTIL 2", PAKA PAKA
+https://www.youtube.com/watch?v=gWsGi78pGUQ
+
+#EXTINF:-1 group-title="INFANTIL 2", HEROES EN PIJAMAS
+https://www.youtube.com/watch?v=AWko_8F3ylw
+
+#EXTINF:-1 group-title="INFANTIL 2", TALKING TOM
+https://www.youtube.com/watch?v=_v3xFxJz9RU
+
+#EXTINF:-1 group-title="INFANTIL 2", SUPER JOJO
+https://www.youtube.com/watch?v=vrbEH5OsfbU
+
+#EXTINF:-1 group-title="INFANTIL 2", SUPER TOONS TV
+https://www.youtube.com/watch?v=punZFUF8jQA
+
+
+https://www.youtube.com/watch?v=-Off-BzpqmQ
+
+#EXTINF:-1 group-title="INFANTIL 2", Reino Infantil
+https://www.youtube.com/watch?v=wrERct2BlqM
+
+#EXTINF:-1 group-title="INFANTIL 2", Granja de Zenon 
+https://www.youtube.com/watch?v=l3ixYedvhTQ
+
+#EXTINF:-1 group-title="INFANTIL 2", Baby first 
+https://www.youtube.com/watch?v=Bw8SyEhBXbA
+
+#EXTINF:-1 group-title="INFANTIL 2", La Patrulla Canina en la Guardería Infantil
+https://www.youtube.com/watch?v=UB6ETEMW57k
+
+#EXTINF:-1 group-title="INFANTIL 2", Oddbods
+https://www.youtube.com/watch?v=alMYKGRzEEk
+
+#EXTINF:-1 group-title="INFANTIL 2", Pinkfong
+https://www.youtube.com/watch?v=IVweu6UPAfA
+
+#EXTINF:-1 group-title="INFANTIL 2", WildBrain en Español
+https://www.youtube.com/watch?v=Dt8JcA0Vq3k
+
+#EXTINF:-1 group-title="INFANTIL 2", Canciones Infantiles - LooLoo
+https://www.youtube.com/watch?v=DGAguwbYyFw
+
+#EXTINF:-1 group-title="INFANTIL 2", Power Rangers para Niños
+https://www.youtube.com/watch?v=9wolb5XXFZE
+
+#EXTINF:-1 group-title="INFANTIL 2", SIMON
+https://www.youtube.com/watch?v=nLMiDo3QyZQ
+
+#EXTINF:-1 group-title="INFANTIL 2", POCOYO  
+https://www.youtube.com/watch?v=og0oFntSMFI
+
+#EXTINF:-1 group-title="INFANTIL 2", BOB EL TREN
+https://www.youtube.com/watch?v=4xPBA-TOBsQ
+
+#EXTINF:-1 group-title="INFANTIL 2", Boom Buddies Español 
+https://www.youtube.com/watch?v=WwX7yK6ITiY
+
+#EXTINF:-1 group-title="INFANTIL 2", Lo mejor de Tom y Jerry 
+https://www.youtube.com/watch?v=eGBMvVFGMfI
+
+#EXTINF:-1 group-title="INFANTIL 2", 123 GO
+https://www.youtube.com/watch?v=cXtsUM19tTg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="AMBA", ALF
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="INFANTIL", LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="INFANTIL", LOS SIMPSONS 2
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTIL", EL CHAVO
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://pbs.twimg.com/profile_images/1434906412359077894/1LurOWUq_400x400.jpg" group-title="AMBA", DEPORT TV 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="AMBA", TyC SPORT 
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 2
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 3
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 4
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN EXTRA
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTE", Fox Sports 
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTE", Fox Sports 2
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTE", Fox Sports 3
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410260561212882945/yeUi7tMe_400x400.jpg" group-title="DEPORTE", TNT Sports
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTE", CIUDAD MAGICA TV
+https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 9
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 10
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="SERIES", TNT Series
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lacasadeel.net/wp-content/uploads/2018/01/syfy-logo.jpg" group-title="SERIES", SyFy 
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="SERIES", FX
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="SERIES", STAR CHANNEL
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
+http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/reX9a/e5e9972612.png" group-title="SERIES", Space
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="SERIES", Cinecanal
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="SERIES", TNT 
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="SERIES",FX Movies
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mP1b6/411b64dc27.png" group-title="SERIES",TCM
+http://168.232.168.242:8000/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mwdML/61aec19cb5.png" group-title="SERIES", Warner Channel
+http://168.232.168.242:8000/play/a0eq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/836_ABC_TV.png" group-title="PARAGUAY", ABC TV 
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1477665322161299458/meyY8B9A_400x400.jpg" group-title="PARAGUAY",TELEFUTURO HD
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
+
+#EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/Paraguay/latele-pe.png" group-title="PARAGUAY",LA TELE HD
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" group-title="PARAGUAY" ,Trece Paraguay
+http://174.138.118.252/live/trece.m3u8
+
+#EXTINF:-1 tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png" group-title="PARAGUAY", ALMAYA TV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1375103386308247557/mpsNXd-8_400x400.jpg" group-title="PARAGUAY", BM TV
+https://tigocloud.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5XwWhInyxQaUbXjp5vB_hNW_Hn-clvZ-erAFUEmvNX-lGf80CVYr7VWFW17y5HKiAgE&usqp=CAU" group-title="PARAGUAY", CAAGUAZÚ TV
+https://59ce1298bfb98.streamlock.net/caaguazutv/caaguazutv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/py-canal-8-vision-tv-6069.jpg" group-title="PARAGUAY", CANAL 8 VISION TV
+https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1253897472944062465/pqZXWzNU_400x400.jpg" group-title="PARAGUAY", CANAL 12 RTV
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/755059609774194690/0oEtaAGT_400x400.jpg" group-title="PARAGUAY", CONCIERTO TV
+https://59ce1298bfb98.streamlock.net/concierto/concierto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3193462255/e1e0b6e7fd2c6a19d238ff4021cc5b82_400x400.jpeg" group-title="PARAGUAY", CRISTAL TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/830_Dismar_TV.jpg" group-title="PARAGUAY", DISMAR
+http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1192886528567119872/8yFiy1W6_400x400.jpg" group-title="PARAGUAY", EDUCANAL
+https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="PARAGUAY", EMPRENDE TV
+https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU" group-title="PARAGUAY", ESTACIÓN CRISTAL TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="PARAGUAY", FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1450892144076537866/u8LyYVFf_400x400.png" group-title="PARAGUAY", FORTALEZA TV
+https://59ce1298bfb98.streamlock.net/fortaleza/fortaleza/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/829_Frutillar_TV.png" group-title="PARAGUAY", Frutillar TV 
+https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/Go-radio.jpg?itok=blyzvrgl" group-title="PARAGUAY", GOTV 
+https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF_400x400.jpg" group-title="PARAGUAY", KOA TV
+https://panel.dattalive.com/8028/8028/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455129807579193346/SOg3tc23_400x400.jpg" group-title="PARAGUAY", ÑANDUTI TV
+https://tvdatta.com:3839/live/nandutitvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.oviedotv.com.py/gallery/123123123-ts1623872171.png" group-title="PARAGUAY", OVIEDO TV
+https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/chunklist_w1931071386.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/819_Mi_TV.png" group-title="PARAGUAY", MI TV
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w1538053714.m3u8?https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=78a7c72be9e9d69cf035fcb8155b3e187b6f0606cc951c0068b03054b89c365d&exp=1645301893
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xapaTFiEUEA/YR7m4mbpl3I/AAAAAAAAFXc/uVRGB_ZTpUAPw7-RHK9KFBDC7stAV2F3wCLcBGAsYHQ/s334/unnamed.png" group-title="PARAGUAY", RADIO ASUNCIÓN
+https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxKWTJZt/1061.png" group-title="PARAGUAY", RADIO PIRAPEY FM
+https://59ce1298bfb98.streamlock.net/pirapeytv/pirapeytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/831_RCC_TV.png" group-title="PARAGUAY", RCC
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.senado.gov.py/images/logos-iconos/boton-senadotv.png" group-title="PARAGUAY", SENADO TV
+https://59ce1298bfb98.streamlock.net/tvsenadopy/tvsenadopy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/828_Somos_Del_Este_TV.jpg" group-title="PARAGUAY", SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTINF:-19 tvg-logo="https://pbs.twimg.com/profile_images/1286075367590174723/rAFeC58U_400x400.jpg" group-title="PARAGUAY", SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1495749167691583489/ozkIn6ac_400x400.jpg" group-title="PARAGUAY", TV CÁMARA
+https://59ce1298bfb98.streamlock.net/tvcamara/tvcamara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/TVA.jpg?itok=HVMEbTFr" group-title="PARAGUAY", TVA
+https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY", TV MAX
+https://tvmaxsa.com.py/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1133003888121057282/3lTs7RpV_400x400.jpg" group-title="PARAGUAY", TVS ENCARNACION
+http://201.217.3.212/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkigU_iIPBm8Clfg7xNOA7ABuwk92uf4XvUvhTuO7Uu6D9DbQyTiPczaOApNBBDrqn_Z4&usqp=CAU" group-title="PARAGUAY", UGA TV
+https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/817_Unicanal.jpg" group-title="PARAGUAY", Unicanal 
+http://45.55.127.106/live/unicanal.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/827_Uniradio_TV.png" group-title="PARAGUAY", Uniradio TV 
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1333131597/header_400x400.png" group-title="PARAGUAY", YES DISC MANIAC TV
+https://stmv1.srvstm.com/martin7217/martin7217/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Anal
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Asian
+http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Gay
+http://cdn.adultiptv.net/gay.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Latina
+http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",MILF
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",POV
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Rough
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Russian
+http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Teen
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO",Woman
+http://live.redtraffic.net/woman.m3u8
+
+
+
+
+
+
